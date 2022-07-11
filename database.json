@@ -1,0 +1,160 @@
+{
+    "branches": [
+        {
+            "name": "CSE",
+            "1st_round": 583,
+            "cutoff_2021":733,
+            "cutoff_2020": 1147,
+            "cutoff_2019": 1819,
+            "link": "https://manipal.edu/content/dam/manipal/mu/mit/documents/CSE/BTech-CSE_2020.pdf"
+        },
+        {
+            "name": "IT",
+            "1st_round": 2272,
+            "cutoff_2021":1764,
+            "cutoff_2020": 2234,
+            "cutoff_2019": 2732,
+            "link": "https://manipal.edu/content/dam/manipal/mu/mit/documents/ict_courseoutline/Information%20Technology_2018.pdf"
+        },
+        {
+            "name": "CCE",
+            "1st_round":3181 ,
+            "cutoff_2021":2772,
+            "cutoff_2020": 3042,
+            "cutoff_2019": 3844,
+            "link": "https://manipal.edu/content/dam/manipal/mu/mit/documents/ict_courseoutline/Computer%20and%20Communication_2018.pdf"
+        },
+        {
+            "name": "DSE",
+            "1st_round": 2976,
+            "cutoff_2021":2548,
+            "cutoff_2020": 3653,
+            "cutoff_2019": "NEW BRANCH",
+            "link": "https://manipal.edu/content/dam/manipal/mu/mit/documents/DSE_CourseStructureMIT2020.pdf"
+        },
+        {
+            "name": "ECE",
+            "1st_round": 5020,
+            "cutoff_2021":4368,
+            "cutoff_2020": 5695,
+            "cutoff_2019": 6483,
+            "link": "https://manipal.edu/content/dam/manipal/mu/mit/documents/ece-course-outline/B.Tech%20ECE%20Course%20outline.pdf"
+        },
+        {
+            "name": "EEE",
+            "1st_round": 9554,
+            "cutoff_2021":9514,
+            "cutoff_2020": 10978,
+            "cutoff_2019": 13900,
+            "link": "https://manipal.edu/content/dam/manipal/mu/mit/documents/eee_dept_docs/Electrical%20and%20Electronics_OUTLINE_2020.pdf"
+        },
+        {
+            "name": "Mechatronics",
+            "1st_round": 19419,
+            "cutoff_2021":17247,
+            "cutoff_2020": 17362,
+            "cutoff_2019": 14985,
+            "link": "https://manipal.edu/content/dam/manipal/mu/mit/documents/Mechatronics_Engineering_syllabus/Mechatronics_UG_new.pdf"
+        },
+        {
+            "name": "Mechanical",
+            "1st_round": 19610,
+            "cutoff_2021":20920,
+            "cutoff_2020": 18581,
+            "cutoff_2019": 16790,
+            "link": "https://manipal.edu/content/dam/manipal/mu/mit/documents/ipe-rb/Mechanical.pdf"
+        },
+        {
+            "name": "EIE",
+            "1st_round": 16856,
+            "cutoff_2021":17241,
+            "cutoff_2020": 19682,
+            "cutoff_2019": 34700,
+            "link": "https://manipal.edu/content/dam/manipal/mu/mit/documents/ice/Electronics%20and%20Instrumentation_2020.pdf"
+        },
+        {
+            "name": "Aeronautical",
+            "1st_round": 13768,
+            "cutoff_2021":16058,
+            "cutoff_2020": 19266,
+            "cutoff_2019": 21099,
+            "link": "https://manipal.edu/content/dam/manipal/mu/mit/documents/B.Tech.%20Aeronautical-Structure.pdf"
+        },
+        {
+            "name": "Automobile",
+            "1st_round": 24557,
+            "cutoff_2021":28571,
+            "cutoff_2020": 26303,
+            "cutoff_2019": 30575,
+            "link": "https://manipal.edu/content/dam/manipal/mu/mit/documents/B.Tech.%20Automobile_Structure.pdf"
+        },
+        {
+            "name": "Biotechnology",
+            "1st_round": 14209,
+            "cutoff_2021":26109,
+            "cutoff_2020": 33875,
+            "cutoff_2019": 0,
+            "link": "https://manipal.edu/content/dam/manipal/mu/mit/documents/biotech-syllabus/B.Tech-%20Biotechnology.pdf"
+        },
+        
+        {
+            "name": "Biomedical",
+            "1st_round": 24359,
+            "cutoff_2021":34065,
+            "cutoff_2020": 0,
+            "cutoff_2019": 0,
+            "link": "https://manipal.edu/content/dam/manipal/mu/mit/documents/biomedical/Biomedical.pdf"
+        },
+        
+        {
+            "name": "Chemical",
+            "1st_round": 35629,
+            "cutoff_2021":34360,
+            "cutoff_2020": 0,
+            "cutoff_2019": 0,
+            "link": "https://manipal.edu/content/dam/manipal/mu/mit/documents/chemical-course-outline/Chemical.pdf"
+        },
+        {
+            "name": "Civil",
+            "1st_round": 35476,
+            "cutoff_2021":33806,
+            "cutoff_2020": 0,
+            "cutoff_2019": 0,
+            "link": "https://manipal.edu/content/dam/manipal/mu/mit/documents/civil_engineering/Civil_New_2018.pdf"
+        },
+        {
+            "name": "Industrial Engineering",
+            "1st_round": 35385,
+            "cutoff_2021":34591,
+            "cutoff_2020": 0,
+            "cutoff_2019": 0,
+            "link": "https://manipal.edu/content/dam/manipal/mu/mit/documents/ipe-rb/Industrial%20Production.pdf"
+        },
+        {
+            "name": "Media Technology",
+            "1st_round": "NA",
+            "cutoff_2021":25932,
+            "cutoff_2020": 0,
+            "cutoff_2019": 0,
+            "link": "https://manipal.edu/mit/program-list/btech/btech-printing-technology.html"
+        },
+        
+        {
+            "name": "CSE-AIML",
+            "1st_round": 1012,
+            "cutoff_2021":921,
+            "cutoff_2020": "NA",
+            "cutoff_2019": "NA",
+            "link": "https://manipal.edu/content/dam/manipal/mu/mit/documents/CSE/2021_CSE_AI&ML_Course%20Structure.pdf"
+        },
+        {
+            "name": "Cyber Physical Systems",
+            "1st_round": 22648,
+            "cutoff_2021":"NEW BRANCH",
+            "cutoff_2020": "NEW BRANCH",
+            "cutoff_2019": "NEW BRANCH",
+            "link": "https://careernext.manipal.edu/content/dam/manipal/mu/mit/documents/CPS_Course%20structure.pdf"
+        }
+        
+    ]
+}
