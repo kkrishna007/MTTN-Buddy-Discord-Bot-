@@ -130,7 +130,7 @@ async def on_message(message):
         # await message.channel.send(message.author.mention)
 
 
-bot.run('OTk1NzUyOTc5ODEyNjAyMDA3.GUhQfG.G3ZTRrSqvXtAu2QdDYFBAK7ORUxjyo2vsMlsxg')
+bot.run(os.getenv('TOKEN'))
 # @bot.event
 # async def on_message(message):
 #     if bot.user.mentioned_in(message):
