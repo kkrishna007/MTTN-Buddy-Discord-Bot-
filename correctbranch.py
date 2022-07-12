@@ -58,7 +58,7 @@ def CorrectedBranch(enteredBranch):
         enteredBranch = "Media Technology"
 
     elif(enteredBranch in [x.lower() for x in aiWords]):
-        enteredBranch = "AI ML"
+        enteredBranch = "CSE-AIML"
 
     elif(enteredBranch in [x.lower() for x in cpsWords]):
         enteredBranch = "Cyber Physical Systems"
