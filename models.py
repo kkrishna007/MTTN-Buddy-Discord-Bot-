@@ -32,6 +32,6 @@ mechxWords = ["mechatronics", "MechX", "MechT", "Mechatronics Engineering"]
 
 mediaWords = ["MediaTech", "Media Tech", "Media Technology", "Media"]
 
-aiWords = ["AI", "CSAI", "Articial Intelligence"."AIML"]
+aiWords = ["AI", "CSAI", "Articial Intelligence","AIML"]
 
 cpsWords = ["Cyber", "Physical", "Cyber System", "Cyber Physical System","Cyber Physical Systems","CPS"]
