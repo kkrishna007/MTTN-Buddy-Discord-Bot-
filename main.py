@@ -44,7 +44,7 @@ def GetCutoff(branch):
         branchString = f"Cutoffs for the branch **{branch.upper()}**: \n\n2022 Counselling: \n1st Round: **{str(cutoffSearch['1st_round'])}.** \n\nPrevious Year Cutoffs : \n2021  : **{str(cutoffSearch['cutoff_2021'])}.** \n2020:  **{str(cutoffSearch['cutoff_2020'])}.** \n2019: **{str(cutoffSearch['cutoff_2019'])}.**\n"
         print(f"<{cutoffSearch['link']}>")
         linkString = f"The course outline for **{branch.upper()}** can be found at: <{cutoffSearch['link']}>"
-        zeroString = f"0 -->  indicates that the no. of seats quota was filled for the particular branch and anyone was eligible for them"
+        zeroString = f"0 -->  indicates that the no. of seats quota wasn't filled for the particular branch and anyone was eligible for them"
         branchMessage = branchString + "\n" + zeroString + "\n\n" + linkString
         return branchMessage, linkString
 
