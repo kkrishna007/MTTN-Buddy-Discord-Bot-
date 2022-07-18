@@ -95,7 +95,7 @@ async def fact(ctx):
         "Manipal Museum of Anatomy & Pathology is one of the largest of its kind in Asia",
         "Manipal gets its name from the famous Manipal Lake"
         ]
-    await ctx.send("**Fact** "+random.choice(facts))
+    await ctx.send("**Fact: ** "+random.choice(facts))
 
 
 @bot.command()
