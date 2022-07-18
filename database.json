@@ -2,6 +2,7 @@
     "branches": [
         {
             "name": "CSE",
+            "2nd_round":660,
             "1st_round": 583,
             "cutoff_2021":733,
             "cutoff_2020": 1147,
@@ -10,7 +11,8 @@
         },
         {
             "name": "IT",
-            "1st_round": 2272,
+            "2nd_round":2262,
+            "1st_round": 2262,
             "cutoff_2021":1764,
             "cutoff_2020": 2234,
             "cutoff_2019": 2732,
@@ -18,6 +20,7 @@
         },
         {
             "name": "CCE",
+            "2nd_round":3196,
             "1st_round":3181 ,
             "cutoff_2021":2772,
             "cutoff_2020": 3042,
@@ -26,6 +29,7 @@
         },
         {
             "name": "DSE",
+            "2nd_round":2976,
             "1st_round": 2976,
             "cutoff_2021":2548,
             "cutoff_2020": 3653,
@@ -34,6 +38,7 @@
         },
         {
             "name": "ECE",
+            "2nd_round":5020,
             "1st_round": 5020,
             "cutoff_2021":4368,
             "cutoff_2020": 5695,
@@ -42,6 +47,7 @@
         },
         {
             "name": "EEE",
+            "2nd_round":9541,
             "1st_round": 9554,
             "cutoff_2021":9514,
             "cutoff_2020": 10978,
@@ -50,6 +56,7 @@
         },
         {
             "name": "Mechatronics",
+            "2nd_round":19419,
             "1st_round": 19419,
             "cutoff_2021":17247,
             "cutoff_2020": 17362,
@@ -58,6 +65,7 @@
         },
         {
             "name": "Mechanical",
+            "2nd_round":19769,
             "1st_round": 19610,
             "cutoff_2021":20920,
             "cutoff_2020": 18581,
@@ -66,6 +74,7 @@
         },
         {
             "name": "EIE",
+            "2nd_round":16856,
             "1st_round": 16856,
             "cutoff_2021":17241,
             "cutoff_2020": 19682,
@@ -74,6 +83,7 @@
         },
         {
             "name": "Aeronautical",
+            "2nd_round":13510,
             "1st_round": 13768,
             "cutoff_2021":16058,
             "cutoff_2020": 19266,
@@ -82,6 +92,7 @@
         },
         {
             "name": "Automobile",
+            "2nd_round":25285,
             "1st_round": 24557,
             "cutoff_2021":28571,
             "cutoff_2020": 26303,
@@ -90,6 +101,7 @@
         },
         {
             "name": "Biotechnology",
+            "2nd_round":14079,
             "1st_round": 14209,
             "cutoff_2021":26109,
             "cutoff_2020": 33875,
@@ -99,6 +111,7 @@
         
         {
             "name": "Biomedical",
+            "2nd_round":27652,
             "1st_round": 24359,
             "cutoff_2021":34065,
             "cutoff_2020": 0,
@@ -108,6 +121,7 @@
         
         {
             "name": "Chemical",
+            "2nd_round":35629,
             "1st_round": 35629,
             "cutoff_2021":34360,
             "cutoff_2020": 0,
@@ -116,6 +130,7 @@
         },
         {
             "name": "Civil",
+            "2nd_round":35360,
             "1st_round": 35476,
             "cutoff_2021":33806,
             "cutoff_2020": 0,
@@ -124,6 +139,7 @@
         },
         {
             "name": "Industrial Engineering",
+            "2nd_round":35385,
             "1st_round": 35385,
             "cutoff_2021":34591,
             "cutoff_2020": 0,
@@ -132,6 +148,7 @@
         },
         {
             "name": "Media Technology",
+            "2nd_round":"NA",
             "1st_round": "NA",
             "cutoff_2021":25932,
             "cutoff_2020": 0,
@@ -141,6 +158,7 @@
         
         {
             "name": "CSE-AIML",
+            "2nd_round":1096,
             "1st_round": 1012,
             "cutoff_2021":921,
             "cutoff_2020": "NA",
@@ -149,6 +167,7 @@
         },
         {
             "name": "Cyber Physical Systems",
+            "2nd_round":21825,
             "1st_round": 22648,
             "cutoff_2021":"NEW BRANCH",
             "cutoff_2020": "NEW BRANCH",
