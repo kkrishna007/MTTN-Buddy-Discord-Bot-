@@ -21,7 +21,7 @@ bot = commands.Bot(command_prefix='.', help_command=None,
                    description="This bot returns the cutoffs")
 # df = pd.DataFrame.from_dict(data['branches'])
 # print(df)
-facts = []
+
 
 
 def GetCutoff(branch):
@@ -87,7 +87,14 @@ async def cutoff(ctx, *, arg):
 
 @bot.command()
 async def fact(ctx):
-    await ctx.send("Facts: Coming soon!")
+    facts=[
+        "With 800+ Rooms in MIT Block 10, it's one of Asia's largest single hostel buildings.",
+        "Padubidri Beach is one of the 8 beaches in India that were awarded the blue flag recognition",
+        "Most popularly known as the 'Campus Town' because the entire town is brimming with students from all over the world!",
+        "Manipal Museum of Anatomy & Pathology is one of the largest of its kind in Asia",
+        "Manipal gets its name from the famous Manipal Lake"
+        ]
+    await ctx.send(random.choice(facts))
 
 
 @bot.command()
