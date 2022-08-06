@@ -42,7 +42,7 @@ def GetCutoff(branch):
         #     print("asdasdasd i is", i)
 
     if(cutoffSearch != 0):
-        branchString = f"Cutoffs for the branch **{branch.upper()}**: \n\n2022 Counselling: \n3rd Round: **{str(cutoffSearch['3rd_round'])}.** \n\n2nd Round: **{str(cutoffSearch['2nd_round'])}.** \n1st Round: **{str(cutoffSearch['1st_round'])}.** \n\nPrevious Year Cutoffs : \n2021  : **{str(cutoffSearch['cutoff_2021'])}.** \n2020:  **{str(cutoffSearch['cutoff_2020'])}.** \n2019: **{str(cutoffSearch['cutoff_2019'])}.**\n"
+        branchString = f"Cutoffs for the branch **{branch.upper()}**: \n\n2022 Counselling: \n3rd Round: **{str(cutoffSearch['3rd_round'])}.** \n2nd Round: **{str(cutoffSearch['2nd_round'])}.** \n1st Round: **{str(cutoffSearch['1st_round'])}.** \n\nPrevious Year Cutoffs : \n2021  : **{str(cutoffSearch['cutoff_2021'])}.** \n2020:  **{str(cutoffSearch['cutoff_2020'])}.** \n2019: **{str(cutoffSearch['cutoff_2019'])}.**\n"
         print(f"<{cutoffSearch['link']}>")
         linkString = f"The course outline for **{branch.upper()}** can be found at: <{cutoffSearch['link']}>"
         zeroString = f"0 -->  indicates that the no. of seats were not filled for the particular branch and anyone was eligible for them"
